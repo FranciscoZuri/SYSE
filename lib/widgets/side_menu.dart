@@ -13,7 +13,7 @@ class SideMenu extends StatelessWidget {
          const _DrawerHeader(),
           ListTile(
             leading: const Icon(Icons.pages_outlined),
-            title: const Text('Home'),
+            title: const Text('Home: '),
             onTap: () {
               Navigator.pushReplacementNamed(context, HomeScreen.routerName);
 
@@ -21,7 +21,7 @@ class SideMenu extends StatelessWidget {
           ),
           ListTile(
             leading: const Icon(Icons.people_outline),
-            title: const Text('Materias'),
+            title: const Text('Materias: '),
             onTap: () {},
           ),
           ListTile(
