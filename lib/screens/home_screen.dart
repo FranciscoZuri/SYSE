@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
           Divider(),
           Text('Genero: '),
           Divider(),
-          Text('Nombre de Usuario: '),
+          Text('Nombre Usuario: '),
           Divider(),
 
       ],)
