@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:syse_desarrollo/screens/screens.dart';
+import 'package:syse_desarrollo/screens/splash_screen.dart';
+
 
 void main() => runApp(const MyApp());
 
@@ -14,6 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       initialRoute: HomeScreen.routerName,
       routes: {
+        
         HomeScreen.routerName    :( _ ) => const HomeScreen(),
         SettingsScreen.routerName:( _ ) => const SettingsScreen(),
 

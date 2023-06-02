@@ -1,0 +1,10 @@
+C:/SYSE/syse_desarrollo/build/windows/CMakeFiles/INSTALL.dir
+C:/SYSE/syse_desarrollo/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/SYSE/syse_desarrollo/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/SYSE/syse_desarrollo/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/SYSE/syse_desarrollo/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/SYSE/syse_desarrollo/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/SYSE/syse_desarrollo/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/SYSE/syse_desarrollo/build/windows/runner/CMakeFiles/syse_desarrollo.dir
+C:/SYSE/syse_desarrollo/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/SYSE/syse_desarrollo/build/windows/runner/CMakeFiles/ALL_BUILD.dir

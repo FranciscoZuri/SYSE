@@ -1,0 +1,12 @@
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/icudtl.dat
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/flutter_windows.dll
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/assets/esme.png
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/assets/logo.png
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/SYSE/syse_desarrollo/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

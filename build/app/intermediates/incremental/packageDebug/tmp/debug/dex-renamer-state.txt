@@ -1,4 +1,4 @@
-#Sat May 27 19:16:19 CST 2023
+#Fri Jun 02 15:29:53 CST 2023
 base.0=C\:\\SYSE\\syse_desarrollo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
